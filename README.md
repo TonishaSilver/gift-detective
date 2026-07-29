@@ -1,6 +1,6 @@
-**🎁 Birthday Surprise Helper**
+**🎁 Gift Detective**
 
-Birthday Surprise Helper is a Flask web application that helps uncover the perfect birthday surprise through a series of fun, interactive questions.
+Gift Detective is a Flask web application that helps uncover the perfect birthday surprise through a series of fun, interactive questions.
 
 Users choose between a Gift or Experience path and answer tailored questions that build a personalised profile. At the end of the quiz, results can be viewed in the browser and emailed directly to the user.
 
